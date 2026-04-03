@@ -1,0 +1,8 @@
+
+1 -> project - greatkart
+2 -> home view -> render(home.html)
+3 -> templates
+4 -> templates setup in settings.py
+5 -> home.html
+6 -> static/greatkart
+7 -> static setup in settings.py
